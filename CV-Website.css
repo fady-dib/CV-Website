@@ -1,0 +1,31 @@
+
+.personal{
+    float: right;
+    padding-right: 70%;
+}
+
+
+#personal-info .profile-pic{
+    width: 10%;
+    border-radius: 30%;
+    
+}
+
+.homeresa {
+    margin-left: 5px;
+}
+
+table, td{
+    border: 1px ridge black
+}
+
+body{
+    background-color: lightgrey;
+    margin-left: 40px;
+    margin: 40px;
+}
+
+.linkedin{
+    width: 15px;
+    margin-right:5px;
+}
