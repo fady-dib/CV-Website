@@ -1,0 +1,47 @@
+
+.personal{
+    display : inline-block;
+    width: 400px;
+    margin-left: 40px
+}
+#personal-info{
+    display:flex;
+    align-items: center;
+}
+.hobbies {
+    display: inline-block;
+    margin-left: 10px
+}
+
+.personal p{
+    text-align: justify;
+}
+
+.profile-pic{
+    width: 10%;
+    border-radius: 30%;
+    vertical-align: baseline;
+    transition: all 2s ease-in-out;
+}
+
+.profile-pic:hover{
+    transform: rotate(3870deg) scale(4)
+}
+.homeresa {
+    margin-left: 5px;
+}
+
+table, td{
+    border: 1px ridge black
+}
+
+body{
+    background-color: lightgrey;
+    margin-left: 40px;
+    margin: 40px;
+}
+
+.linkedin{
+    width: 15px;
+    margin-right:5px;
+}
